@@ -1,6 +1,7 @@
 # Spotify Clone <img src="imgs/favicon.png" width="20px">
 
 ➡️Landing page clone do site Spotify⬅️
+
 ℹ️ Link Github Pages: https://evertonneto.github.io/Clone_Spotify/
 
 [<img src="./spotifyclone.gif">]()
